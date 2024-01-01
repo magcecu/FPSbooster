@@ -16,7 +16,7 @@ pip install -r requirements.txt
 # Constributors
 ✨Me✨
 # Idea
-discord: b_._o_._b
+discord: !! Bobito
 # External links
 * https://t.me/TheMagMarket
 * https://discord.gg/P8sKTTndqk
